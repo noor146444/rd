@@ -2,3 +2,5 @@ noorul ameen is my name.
 some people call me ameen.
 some people call me noorul.
 something is weird. And I don't know why.
+hello world this is noorul ameen.
+I'm now currently working on git branching.
